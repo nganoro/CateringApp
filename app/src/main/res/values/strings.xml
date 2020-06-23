@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CateringApp</string>
+    <string name="txtHeader">Catering Services</string>
+    <string name="imgDesc">headerPicture</string>
+    <string name="btnHome">Home</string>
+    <string name="btnContact">Contact Us</string>
+    <string name="btnReservation">Make a Reservation</string>
+</resources>
